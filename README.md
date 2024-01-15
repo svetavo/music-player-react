@@ -1,32 +1,34 @@
- ### Музыкальный плеер/Music player
+**Музыкальный плеер/Music player**
  
- ### Страница проекта/project page: 
+**Страница проекта/project page: **
  https://music-player-svetavo.netlify.app/
  
   <img src="https://static.tildacdn.com/tild6539-6137-4339-b065-383161393162/__2023-07-01__153425.png" width="500"/>
 
-
- ENGLISH BELOW
+ _ENGLISH BELOW_
 
  Функциональность: переключение треков, библиотека треков в виде Раскрываемого бокового меню.
  Дизайн приложения адаптивен
 
- ### Технологический стек:
+**Технологический стек:**
  React, Javascript
 
- ### Запуск проекта:
- npm i
- npm run start
+**Инструкция по запуску приложения:**
 
+    npm i
+   
+    npm run start
+    
 
 **ENGLISH**
 
-Functionaity: controlling, expanding library menu
+Functionaity: controlling, expanding library menu. Adaptive layout
 
-Stack: 
-React
+**Stack:**
+React, Javascript
 
-### Running:
+**Running:**
 
- npm i
- npm run start
+    npm i
+   
+    npm run start
