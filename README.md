@@ -16,10 +16,10 @@
 
  ### Запуск проекта:
  npm i
-
  npm run start
 
-ENGLISH
+
+**ENGLISH**
 
 Functionaity: controlling, expanding library menu
 
@@ -29,5 +29,4 @@ React
 ### Running:
 
  npm i
-
  npm run start
